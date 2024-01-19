@@ -10,7 +10,7 @@ package arraydemo;
  */
 public class Student {
     private int sID; 
-    private string sName;
+    private String sName;
 
     public int getsID() {
         return sID;
@@ -20,11 +20,11 @@ public class Student {
         this.sID = sID;
     }
 
-    public string getsName() {
+    public String getsName() {
         return sName;
     }
 
-    public void setsName(string sName) {
+    public void setsName(String sName) {
         this.sName = sName;
     }
     
